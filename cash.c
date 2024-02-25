@@ -1,6 +1,5 @@
 #include <stdio.h>
-int change_owed;
-int f;
+int change_owed , f;
 int chng(void);
 int main(void)
 {
